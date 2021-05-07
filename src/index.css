@@ -1,0 +1,11 @@
+.bigContainer{
+  border: solid 1px green;
+  background-color: aliceblue;
+}
+.formArea{
+  border: solid 1px red;
+  background-color:#c1c1c1;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
